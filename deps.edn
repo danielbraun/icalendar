@@ -1,0 +1,2 @@
+{:deps {compojure {:mvn/version "1.6.1"}
+        clj-time {:mvn/version "0.15.2"}}}
